@@ -1,0 +1,12 @@
+Hello, {{name}}!
+
+Today is {{date}}.
+
+Sum of 10 and 20 is {{sum(10, 20)}}.
+Average of 3, 4, 5: {{avg(3, 4, 5)}}.
+
+Upper name: {{upper(name)}}
+Lower name: {{lower(name)}}
+
+Tasks:
+{{tasks}}

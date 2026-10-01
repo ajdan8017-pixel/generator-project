@@ -1,0 +1,9 @@
+build/
+modules/*.so
+output/*
+!output/.gitkeep
+logs/*
+!logs/.gitkeep
+*.swp
+*~
+.DS_Store

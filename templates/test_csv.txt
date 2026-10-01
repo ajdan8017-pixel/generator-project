@@ -1,0 +1,3 @@
+Row 1: {{csv_row('data/users.csv', 1, '|')}}
+Row 2: {{csv_row('data/users.csv', 2, '|')}}
+Row 3: {{csv_row('data/users.csv', 3, '|')}}
